@@ -17,7 +17,12 @@ Send it to someone special or customize it for your own celebration!
 ---
 
 ## 📸 Preview
+![Happy Birthday Card Preview](card-demo-front.png)
+![Happy Birthday Card Preview](card-demo-inside.png)
 
+
+
+🎥 [Watch the Demo Video](https://github.com/nicolejlaurin/opening-card-app/blob/main/Demo%20Video.mov)
 
 ---
 
